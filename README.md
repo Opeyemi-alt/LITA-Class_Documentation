@@ -1,10 +1,20 @@
-# LITA-Class_Documentation
+# LITA-Class_Documentation using Excel
 This is where Excel Exercises and class activities are documented while learning Data Analysis with the Incubator Hub
+
+### Project title: Revenue and Sales Analysis with Compensation Schedule
+[Project overview](#project-overview)
+[Scope](#scope)
+[Key Performance Indicators (KPIs)](#key-performance-indicators-(kpis))
+[Exercises](#exercise)
+[Learning Outcomes](#learning-outcomes)
+[Tools Used](#tools-used)
+[Data cleaning and preparations](#data-cleaning-and-preparations)
+[Data Visualization](#data-visualization)
 
 ### Project overview:
 Develop an Excel model to analyze and visualize revenue and unit sales data to identify trends, pattern and insights, create a salary compensation schedule that inform business decisions.
 
-### Scope:
+### Scope;
 
 ### Revenue and Sales Analysis:
 ---
@@ -19,7 +29,7 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 2. Compensation structure (Base salary, bonuses, benefits)
 3. Performances (sales targets, revenue growth)
 
-### Key Performance Indicators (KPIs):
+### Key Performance Indicators (KPIs);
 
 ### Revenue and Sales:
 ---
