@@ -1,14 +1,23 @@
 # LITA-Class_Documentation using Excel
+
 This is where Excel Exercises and class activities are documented while learning Data Analysis with the Incubator Hub
+
 
 ### Project title: Revenue and Sales Analysis with Compensation Schedule
 [Project overview](#project-overview)
+
 [Scope](#scope)
+
 [Key Performance Indicators (KPIs)](#key-performance-indicators-(kpis))
+
 [Exercises](#exercise)
+
 [Learning Outcomes](#learning-outcomes)
+
 [Tools Used](#tools-used)
+
 [Data cleaning and preparations](#data-cleaning-and-preparations)
+
 [Data Visualization](#data-visualization)
 
 ### Project overview:
