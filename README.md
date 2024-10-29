@@ -23,6 +23,7 @@ This is where Excel Exercises and class activities are documented while learning
 ### Project overview:
 Develop an Excel model to analyze and visualize revenue and unit sales data to identify trends, pattern and insights, create a salary compensation schedule that inform business decisions.
 
+
 ### Scope;
 
 ### Revenue and Sales Analysis:
