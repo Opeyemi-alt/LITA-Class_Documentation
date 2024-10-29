@@ -11,4 +11,8 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 4. Chart Creation (column, pie charts)
 5. Data Visualization (Conditional Formatting, Dashboards)
 
-
+### Exercises:
+1. Sales Data Analysis
+2. Employee Performance Report
+3. Product Sales Dashboard
+4. Customer Demographic Analysis
