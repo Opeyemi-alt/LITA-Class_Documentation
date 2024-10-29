@@ -5,11 +5,30 @@ This is where Excel Exercises and class activities are documented while learning
 Develop an Excel model to analyze and visualize revenue and unit sales data to identify trends, pattern and insights, create a salary compensation schedule that inform business decisions.
 
 ### Scope:
-1. Excel Functions (SUMIFS,VLOOKUP)
-2. Data Manipulation (filtering, sorting, grouping)
-3. Pivot Tables (reporting, filtering, grouping)
-4. Chart Creation (column, pie charts)
-5. Data Visualization (Conditional Formatting, Dashboards)
+
+### Revenue and Sales Analysis:
+1. Revenue Data (Monthly)
+2. Unit Sales data (Monthly)
+3. Product categories
+4. Regions
+
+### Salary Compensation Schedule:
+1. Employee data (name, position, salary, department)
+2. Compensation structure (Base salary, bonuses, benefits)
+3. Performances (sales targets, revenue growth)
+
+### Key Performance Indicators (KPIs):
+
+### Revenue and Sales:
+- Total Revenue
+- Total Unit Sales
+- Average Revenue
+- Unit Sales Growth Rate
+
+### Salary Compensation:
+- Total Compensation Cost
+- Average Salary per Employee
+- Percentage of Total compensation 
 
 ### Exercises:
 1. Sales Data Analysis
@@ -25,3 +44,5 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 
 ### Tools Used
 - Microsoft Excel
+- Excel formulas and functions (e.g., SUMIFS, VLOOKUP)
+- Excel charts and visualization tools (e.g., Pivot Tables, Conditional Formatting)
