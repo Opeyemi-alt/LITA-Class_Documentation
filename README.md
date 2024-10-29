@@ -86,4 +86,7 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 
 <img width="217" alt="sum of  total revenue" src="https://github.com/user-attachments/assets/8c0f3592-f0e7-4535-94af-9676a88030fd">
 
+<img width="554" alt="salary calcs" src="https://github.com/user-attachments/assets/b1270089-9ec6-42e5-a685-884bebf66eb7">
+
+
 
