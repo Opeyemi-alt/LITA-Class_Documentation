@@ -62,7 +62,8 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 
 ---
 ### Data Visualization
+<img width="719" alt="Sales Report 1" src="https://github.com/user-attachments/assets/81ab3983-3a8d-4540-8fc1-a72c9f920daa">
 
 <img width="217" alt="sum of  total revenue" src="https://github.com/user-attachments/assets/8c0f3592-f0e7-4535-94af-9676a88030fd">
 
-![Uploading Sales Report.png…]()
+
