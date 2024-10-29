@@ -16,3 +16,12 @@ Develop an Excel model to analyze and visualize revenue and unit sales data to i
 2. Employee Performance Report
 3. Product Sales Dashboard
 4. Customer Demographic Analysis
+
+### Learning Outcomes:
+1. Efficient Data Management
+2. Effective data visualization
+3. Improved reporting Capabilities
+4. Enhanced analytical skills
+
+### Tools Used
+- Microsoft Excel
